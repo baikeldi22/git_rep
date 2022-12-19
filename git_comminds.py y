@@ -1,0 +1,9 @@
+git status 
+git add
+git commit -m 'commit'
+git branch 
+git branch name branch
+checkout name branch
+push origin master 
+resetfilename
+
